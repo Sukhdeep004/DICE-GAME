@@ -96,5 +96,5 @@ Score the highest total points after 5 rounds to win the game.
 
 <img width="602" height="487" alt="Image" src="https://github.com/user-attachments/assets/8a3de3dd-f7d2-4153-8626-62ce19ebd4ae" />
 
-<img width="1102" height="864" alt="Image" src="https://github.com/user-attachments/assets/f649e796-f57c-4105-9d01-5ad36df062a3" />
+<img width="602" height="487" alt="Image" src="https://github.com/user-attachments/assets/f649e796-f57c-4105-9d01-5ad36df062a3" />
 
