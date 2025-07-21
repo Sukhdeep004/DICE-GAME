@@ -92,7 +92,7 @@ Score the highest total points after 5 rounds to win the game.
 
 **Enjoy playing the Dice Game! 🎲🎉**
 
-### Snapshots
+### <i class="fa-regular fa-camera"></i> Snapshots
 
 <img width="602" height="487" alt="Image" src="https://github.com/user-attachments/assets/8a3de3dd-f7d2-4153-8626-62ce19ebd4ae" />
 
